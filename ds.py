@@ -9,7 +9,6 @@
 # list1 = [1,2.3,"hello",4]
 # # list1= list()
 # print(list1)
-
 # Lists are Ordered
 # list1 = [[1,2],1,2,3,4]
 # list2 = [2,1,3,4]
