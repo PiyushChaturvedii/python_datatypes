@@ -1,7 +1,7 @@
 # Data Sturctures
 # "Way to store and organize the data so that it can be accessed effetively" - Dictionary, Libraray
 # Built_in : List, tuple, set, Dictionary
-# User defined: Stack, queue, linked list, tree graph
+# User defined: Stack, queue, linked list, tree, graph
 
 
 
