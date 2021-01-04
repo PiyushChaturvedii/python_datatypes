@@ -1,0 +1,10 @@
+# Single linked list
+
+class Node:
+    def __init__(self,data):
+        self.data = data
+        self.ref = None
+
+class LinkedList:
+    def __int__(self):
+        self.head = None
