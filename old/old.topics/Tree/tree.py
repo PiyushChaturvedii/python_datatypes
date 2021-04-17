@@ -33,6 +33,12 @@ tree.insert(root,6)
 tree.insert(root,8)
 
 
+inorder, preorder, post order
+
+inorder  Left root right
+preorder root left right
+postorder left right root 
+
 
 # create a node, insert node, display, search, delete, find height of tree
 
